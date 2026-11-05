@@ -1,0 +1,653 @@
+		{M id=Chapter Five ( _ "Phantoms in the Forest")}
+		{M speaker=narrator ( _ "The southeastern areas of Wesnoth were not the only ones with a problem with orcs. Having heard rumours of them assaulting the eastern elven towns, and after being forced to depart from his companions for the time being, Silan had decided to investigate upon the matter. Unfortunately, elves were no less hostile towards necromancy than humans were...")}
+		{M speaker=narrator ( _ "---")}
+		{M speaker=narrator ( _ "Spoiler")}
+		{M speaker=narrator ( _ "(The fog surrounds the area, hiding from your vision such things as elven and orcish combatants locked in a deadly battle. There are far more orcs than elves, though.)")}
+		{M speaker=narrator ( _ "For obvious reasons, Silan wishes to remain very much hidden during this battle. Therefore, as soon as he arrives on the battlefield, he summons a thick fog to cover his intentions from the elves as well as orcs.")}
+		{M id=Silan ( _ "Sometimes, justice is as dark as the evil it is fighting, and must remain hidden, lest it would be misunderstood by the forces of good and attacked with the same prejudice than those genuinely evil.")}
+		{M id=An undead minion ( _ "Lurking in the darkness of fear of death, we have come to exact justice upon the wicked. How shall we do this, master?")}
+		{M id=Silan ( _ "Well, obviously we will have to hide from the elves. If everything goes well, we will be able to remove the orcs without them ever realizing we even were here.")}
+		{M id=Minion ( _ "And if everything does not go well...?")}
+		{M id=Silan ( _ "...")}
+		{M id=Silan ( _ "Then we may be forced to defend ourselves from both sides of the conflict. Regardless of how it goes, we must try and keep the elvish casualties at the bare minimum.")}
+		{M speaker=narrator ( _ "---")}
+		{M speaker=narrator ( _ "With the addition of skeletons and skeleton archers, Silan now has the full list of undead recruits in his possession.")}
+		{M speaker=narrator ( _ "All orcs concentrate entirely upon the elves, only turning on the undead when they're seen, and not going to actively look for the player.")}
+		{M speaker=narrator ( _ "There are some elves fighting in the northern front, but they are hopelessly outnumbered by the orcs. Most elves are in the west and southwest, where they are faring much better, but will also be eventually defeated and driven back to their city.")}
+		{M speaker=narrator ( _ "The prime concern of this mission is elves and their attitude. They will start neutral and only attack the orcs, but if the player's forces are ever seen - i.e. any undead is caught at the elf's vision range - they all turn hostile, go looking for the player, and have the following dialogue")}
+		{M id=Elf ( _ "An undead! The necromancers are aiding orcs against us?")}
+		{M id=Silan ( _ "Um, it's not actually like that. I am here to help y-")}
+		{M id=Elf ( _ "Cease your slithering tongue, villain! We will come deal with you now!")}
+		{M id=Silan ( _ "Augh. Why don't they ever listen?")}
+		{M speaker=narrator ( _ "If the elves do turn hostile, however the mission is still beatable by finishing off the orcs. The only way to be defeated is to either lose Silan or have the elvish chief killed, which will come with this bit of word")}
+		{M id=Silan ( _ "Oh, no. The elves have been routed.")}
+		{M id=An undead minion ( _ "We have no more purpose here, master, do we?")}
+		{M id=Silan ( _ "No. I suppose we could defeat the remaining orcs, but the primary purpose of the act has been lost. We have been defeated here.")}
+		{M speaker=narrator ( _ "---")}
+		{M speaker=narrator ( _ "On victory")}
+		{M id=Minion ( _ "Master, the orcs have been routed. Our task is finished.")}
+		{M id=Silan ( _ "You are right, as usual! Let us withdraw!")}
+		{M speaker=narrator ( _ "If the player was seen during the mission")}
+		{M id=Elf ( _ "Look, sir. The mist is withdrawing. The undead are nowhere to be seen, either: we assume they conjured it in the first place, and it vanished along with them.")}
+		{M id=Elfish Marshal ( _ "Cowards, fleeing as soon as we had finished with their orcish allies. They should have come here and met our blades!")}
+		{M id=Elf ( _ "But sir, there is something else. If you look at the scene, you see many, many dead orcs. Even without the undead, they should have been able to defeat us all with ease - let alone when they had necromancers as their allies.")}
+		{M speaker=narrator ( _ "If the player wasn't seen, this dialogue is played instead")}
+		{M id=Marshal ( _ "The mist is finally clearing. I cannot help but wonder where it came from.")}
+		{M id=Elf ( _ "Sir? We have discovered something interesting.")}
+		{M id=Marshal ( _ "What of?")}
+		{M id=Elf ( _ "Well, first of all... there are many orcs on the battleground now. There was far more than any of our warriors could ever have slain - perhaps even enough to wipe us all out.")}
+		{M speaker=narrator ( _ "Regardless of whether the player was seen or not, this will be said next")}
+		{M id=Marshal ( _ "Indeed, I can see what you mean. What else?")}
+		{M id=Elf ( _ "Sir, take a closer look at this body.")}
+		{M speaker=narrator ( _ "...")}
+		{M id=Marshal ( _ "But... this is...")}
+		{M id=Elf ( _ "Indeed. It was not killed by an elfish weapon...")}
+		{M id=Marshal ( _ "...But by an orc.")}
+		{M id=Elf ( _ "But why? Were they infighting? A power struggle, perhaps?")}
+		{M id=Marshal ( _ "No, I do not think so. I am not saying the orcs don't have such habits, but... take a look.")}
+		{M id=Elf ( _ "Sir?")}
+		{M id=Marshal ( _ "The weapons that were used to slay this orc are old. Very, very old, and rusty.")}
+		{M id=Elf ( _ "But... that might not mean anything. Orcs are not well known for their weapon maintenance, and often pass on swords and other equipment to their young, instead of making new ones.")}
+		{M id=Marshal ( _ "...Yes. Whatever it was, an infighting or a mysterious ally, it most likely saved our lives. ")}
+		{M id=Elf ( _ "Intentionally or not.")}
+		{M id=Marshal ( _ "The entire case is most peculiar.")}
+		{M speaker=narrator ( _ "***********************************")}
+		{M speaker=narrator ( _ "This mission would seem to have plenty of potential for branching campaign, depending on whether Silan was seen or not. But I'm not a talented enough writer to make such things without turning the whole campaign into an overly complicated snarl. ")}
+		{M speaker=narrator ( _ "Huston answered")}
+		{M speaker=narrator ( _ "first off, when posting code on the forums put it inside of [code ] tags not spoiler tags.")}
+		{M speaker=narrator ( _ "secondly you will probably recieve some errors from yourt _main.cfg file currently.")}
+		{M speaker=narrator ( _ "here is the fixes to it.")}
+		{M id=Code ( _ "[ Select all ]")}
+		{M speaker=narrator ( _ "#textdomain wesnoth-Fire_Forged_Friends")}
+		{M speaker=narrator ( _ "[textdomain]")}
+		{M speaker=narrator ( _ "    name="wesnoth-Fire_Forged_Friends"")}
+		{M speaker=narrator ( _ "[/textdomain]")}
+		{M speaker=narrator ( _ "[campaign]")}
+		{M speaker=narrator ( _ "id=Fire-Forged_Friends")}
+		{M speaker=narrator ( _ "name= _ "Fire-Forged Friends"")}
+		{M speaker=narrator ( _ "abbrev= _ "FFF"")}
+		{M speaker=narrator ( _ "define="CAMPAIGN_FORGED"")}
+		{M speaker=narrator ( _ "first_scenario="01_rats_of_different_color_all_of_them_cornered"")}
+		{M speaker=narrator ( _ "difficulties=EASY,NORMAL,HARD")}
+		{M speaker=narrator ( _ "difficulty_descriptions={MENU_IMG_TXT2 "units/saurians/skirmisher.png~RC(magenta>red)" _ "Skirmisher" _"(Easy)"} +")}
+		{M speaker=narrator ( _ "";*" + {MENU_IMG_TXT2 "units/saurians/ambusher.png~RC(magenta>red)" _"Ambusher" _"(Normal)"} +")}
+		{M speaker=narrator ( _ "";" + {MENU_IMG_TXT2 "units/saurians/flanker.png~RC(magenta>red)" (_"Flanker") _"(Challenging)"}")}
+		{M speaker=narrator ( _ "description= _ "Is it working? Please let it work."")}
+		{M speaker=narrator ( _ "(Intermediate level, 1 scenario.)")}
+		{M speaker=narrator ( _ "[binary_path]")}
+		{M speaker=narrator ( _ "    path=data/campaigns/Fire-Forged_Friends")}
+		{M speaker=narrator ( _ "[/binary_path]")}
+		{M speaker=narrator ( _ "#ifdef CAMPAIGN_FORGED")}
+		{M speaker=narrator ( _ "[binary_path]")}
+		{M speaker=narrator ( _ "    path=data/campaigns/Fire-Forged_Friends")}
+		{M speaker=narrator ( _ "[/binary_path]")}
+		{M speaker=narrator ( _ "{~campaigns/Fire-Forged_Friends/scenarios}")}
+		{M speaker=narrator ( _ "#endif")}
+		{M speaker=narrator ( _ "[/campaign]")}
+		{M id=Code ( _ "[ Select all ]")}
+		{M speaker=narrator ( _ "#textdomain wesnoth-Fire_Forged_Friends")}
+		{M speaker=narrator ( _ "[scenario]")}
+		{M speaker=narrator ( _ "id=01_rats_of_different_color_all_of_them_cornered")}
+		{M speaker=narrator ( _ "next_scenario=02_no_more_running")}
+		{M speaker=narrator ( _ "name=_ "Rats of Different Color; All of them_Cornered")}
+		{M speaker=narrator ( _ "map_data="{~campaigns/Fire_Forged_Friends/maps/01_rats_of_different_color_all_of_them_cornered.map}"")}
+		{M speaker=narrator ( _ "victory_when_enemies_defeated_=no")}
+		{M speaker=narrator ( _ "{TURNS 38 34 30}")}
+		{M speaker=narrator ( _ "{INTRO_AND_SCENARIO_MUSIC breaking_the_chains.ogg siege_of_laurelmor.ogg}")}
+		{M speaker=narrator ( _ "{EXTRA_SCENARIO_MUSIC heroes_rite.ogg}")}
+		{M speaker=narrator ( _ "{EXTRA_SCENARIO_MUSIC frantic.ogg}")}
+		{M speaker=narrator ( _ "[story]")}
+		{M speaker=narrator ( _ "[part]")}
+		{M id=story=_ "At the age of eighteen, the newly knighted Cheska Kuhral, a noblewoman by birth and education, received her first position of command in the southeastern fringe of the kingdom of Wesnoth. It was a relatively peaceful age, and even more a peaceful corner of the earth ( _ "neither Cheska nor her employers expected the responsibility that had been given to her to bring all that much challenge.")}
+		{M speaker=narrator ( _ "[/part]")}
+		{M speaker=narrator ( _ "[part]")}
+		{M id=story=_ "Unfortunately, they could not have been more wrong. Barely a month had passed with the young Cheska in command, when the keeps and posts were assaulted by one of the largest orcish raiding bands in recent memory. To her credit it must be said that she put up a great fight, refusing to surrender for many days, but in the end, the orcs proved to be too much for her ( _ "the human outposts were invaded, most defending forces slaughtered, and the commander herself forced to retreat, along with what little was left of her forces.")}
+		{M speaker=narrator ( _ "[/part]")}
+		{M speaker=narrator ( _ "[part]")}
+		{M speaker=narrator ( _ "story=_ "Meanwhile, a lone wanderer is approaching her throughout the western mountain range. Wherever he goes, small orcish scout teams would vanish without a trace, failing to return to their camps and report their findings - and the said camps shortly afterwards face assaults of their own dead, walking corpses and incorporeal spirits cutting down the living, spreading panic and chaos among the ranks of those that survive. He went where the raid did, opposing it from shadows at every opportunity - and where the raid happened to go was where Cheska happened to be. The collision of two forces and one loner was inevitable."")}
+		{M speaker=narrator ( _ "[/part]")}
+		{M speaker=narrator ( _ "[part]")}
+		{M id=story=_ "And from the east, from far away, far and wide they have travelled, an even more insignificant force is closing in. Truly small, capable of sneaking past orcs and humans alike, the tiny band of lizards finally enters the human territory. Shackled, scarred, starving, and afraid ( _ "turning back every now and then to see if they are chased, not stopping even when the running hurts. They care not where they are going, only where they are running from, and how to get even more away from it. They care not that they are entering upon a scene of a great battle. They know not that they are approaching either an unlikely alliance... or death.")}
+		{M speaker=narrator ( _ "[/part]")}
+		{M speaker=narrator ( _ "[/story]")}
+		{M speaker=narrator ( _ "{DEFAULT_SCHEDULE}")}
+		{M speaker=narrator ( _ "[side]")}
+		{M speaker=narrator ( _ "side=1")}
+		{M speaker=narrator ( _ "controller=human")}
+		{M speaker=narrator ( _ "type=Swordsman")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "name=_ "Cheska Kuhral"")}
+		{M speaker=narrator ( _ "unrenamable=yes")}
+		{M speaker=narrator ( _ "canrecruit=yes")}
+		{M speaker=narrator ( _ "recruit=Spearman,Horseman,Bowman")}
+		{M speaker=narrator ( _ "gold=150 120 90")}
+		{M speaker=narrator ( _ "[unit]")}
+		{M speaker=narrator ( _ "{ELRIC}")}
+		{M speaker=narrator ( _ "x=17")}
+		{M speaker=narrator ( _ "y=26")}
+		{M speaker=narrator ( _ "[/unit]")}
+		{M speaker=narrator ( _ "[unit]")}
+		{M speaker=narrator ( _ "generate_name=yes")}
+		{M speaker=narrator ( _ "type=Swordsman")}
+		{M speaker=narrator ( _ "side=1")}
+		{M speaker=narrator ( _ "x=17")}
+		{M speaker=narrator ( _ "y=27")}
+		{M speaker=narrator ( _ "[/unit]")}
+		{M speaker=narrator ( _ "[/side]")}
+		{M speaker=narrator ( _ "[event]")}
+		{M speaker=narrator ( _ "name=last breath")}
+		{M speaker=narrator ( _ "first_time_only=yes")}
+		{M speaker=narrator ( _ "[filter]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "[/filter]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message=_ "Die! If you thought I would give up so easily, then you are sorely mistaken!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message=_ "Hah! I remember how, before I arrived to help, you were indeed about to give up!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message=_ "Silence, necromancer. I will not hear such talk from someone like you."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[/event]")}
+		{M speaker=narrator ( _ "[side]")}
+		{M speaker=narrator ( _ "side=2")}
+		{M speaker=narrator ( _ "controller=ai")}
+		{M speaker=narrator ( _ "team_name=undead")}
+		{M speaker=narrator ( _ "user_team_name=_"Silan's dead folk"")}
+		{M speaker=narrator ( _ "type=Dark Adept")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "name_ "Silan Abner"")}
+		{M speaker=narrator ( _ "[leader_goal]")}
+		{M speaker=narrator ( _ "x=21")}
+		{M speaker=narrator ( _ "y=0")}
+		{M speaker=narrator ( _ "[/leader_goal]")}
+		{M speaker=narrator ( _ "canrecruit=yes")}
+		{M speaker=narrator ( _ "recruit=Soulless,Blood Bat")}
+		{M speaker=narrator ( _ "{GOLD 120 90 60}")}
+		{M speaker=narrator ( _ "[ai]")}
+		{M speaker=narrator ( _ "aggression=0.6")}
+		{M speaker=narrator ( _ "grouping=defensive")}
+		{M id=recruitment ( _ "pattern=scout,scout,fighter")}
+		{M speaker=narrator ( _ "[/ai]")}
+		{M speaker=narrator ( _ "[/side]")}
+		{M speaker=narrator ( _ "[event]")}
+		{M speaker=narrator ( _ "name=last breath")}
+		{M speaker=narrator ( _ "first_time_only=yes")}
+		{M speaker=narrator ( _ "[filter]")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "[/filter]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message=_ "Remain Dust, foolish one!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[/event]")}
+		{M speaker=narrator ( _ "[event]")}
+		{M speaker=narrator ( _ "name=recruit")}
+		{M speaker=narrator ( _ "first_time_only=yes")}
+		{M speaker=narrator ( _ "[filter]")}
+		{M speaker=narrator ( _ "id=soulless")}
+		{M speaker=narrator ( _ "[/filter]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message=_ "Hmph, such lousy corpses here. Can't make proper soldiers out of them..."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message=_ "Wait. Is that..."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Xel")}
+		{M speaker=narrator ( _ "message=_ "It is a corpse that walks. You are a necromancer."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message=_ "...Why, yes. What of it?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message=_ "What of it...? What of it?! You practise the vilest of all brands of magic! You conspire with evil spirits, desecrate the dead and force them back to the world of the living, enslaving their souls for your own purpose!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M id=message=_ "...Which has so far been opposing the orcish hordes that murder and pillage our countryside, and as of now, to get you and your friends out of here alive. Besides, I use no humans, only orcs ( _ "they deserve it.")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message=_ "I think even orcs deserve the peace of death."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message=_ "And that they shall get, eventually. However, I see it a fair trade that they will first have to absolve some of their sins by helping out humans they have often opposed so much. Don't you think that's fair?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Xel")}
+		{M speaker=narrator ( _ "message=_ "No. All sins are absolved by death. And, like Cheska here said, everyone should be allowed to rest in peace, be he a man, an orc, or a drake."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Zeza")}
+		{M speaker=narrator ( _ "message=_"When a drake grows old and nears his end, he goes out to seek the most glorious death possible. And if he is brought back to life after single-handedly slaying seven gigantic trolls, then it makes mockery of all he ever accomplished!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message=_ "Your point is acknowledged, friend lizards, but you will have to admit that you can't possibly get out of here alive without my help."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Xel")}
+		{M speaker=narrator ( _ "message=_ "...Yes. But that doesn't mean we have to like it."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message=_ "I will let you be... for now."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[/event]")}
+		{M speaker=narrator ( _ "[side]")}
+		{M speaker=narrator ( _ "side=3")}
+		{M speaker=narrator ( _ "controller=ai")}
+		{M speaker=narrator ( _ "team_name=saurians")}
+		{M speaker=narrator ( _ "user_team_name=_"Xel's saurians"")}
+		{M speaker=narrator ( _ "type=Saurian Skirmisher")}
+		{M speaker=narrator ( _ "id=Xel")}
+		{M speaker=narrator ( _ "name_ "Xel"")}
+		{M speaker=narrator ( _ "[leader_goal]")}
+		{M speaker=narrator ( _ "x=19")}
+		{M speaker=narrator ( _ "y=0")}
+		{M speaker=narrator ( _ "[/leader_goal]")}
+		{M speaker=narrator ( _ "canrecruit=yes")}
+		{M speaker=narrator ( _ "recruit=Saurian Skirmisher,Saurian Augur")}
+		{M speaker=narrator ( _ "{GOLD 120 90 60}")}
+		{M speaker=narrator ( _ "[unit]")}
+		{M speaker=narrator ( _ "{ZEZA}")}
+		{M speaker=narrator ( _ "x=22")}
+		{M speaker=narrator ( _ "y=26")}
+		{M speaker=narrator ( _ "[/unit]")}
+		{M speaker=narrator ( _ "[ai]")}
+		{M speaker=narrator ( _ "aggression=0.6")}
+		{M speaker=narrator ( _ "grouping=offensive")}
+		{M id=recruitment ( _ "pattern=fighter,fighter,healer")}
+		{M speaker=narrator ( _ "[/ai]")}
+		{M speaker=narrator ( _ "[/side]")}
+		{M speaker=narrator ( _ "[side]")}
+		{M speaker=narrator ( _ "side=4")}
+		{M speaker=narrator ( _ "controller=ai")}
+		{M speaker=narrator ( _ "type= Orcish Warrior")}
+		{M speaker=narrator ( _ "id=Larry")}
+		{M speaker=narrator ( _ "name_ "Larry"")}
+		{M speaker=narrator ( _ "canrecruit=yes")}
+		{M speaker=narrator ( _ "recruit=Orcish Assassin,Orcish Grunt")}
+		{M speaker=narrator ( _ "{GOLD 150 200 250}")}
+		{M speaker=narrator ( _ "[ai]")}
+		{M speaker=narrator ( _ "aggression=0.6")}
+		{M speaker=narrator ( _ "grouping=no")}
+		{M speaker=narrator ( _ "recruitment_pattern=fighter,fighter,mixed fighter")}
+		{M speaker=narrator ( _ "[/ai]")}
+		{M speaker=narrator ( _ "[/side]")}
+		{M speaker=narrator ( _ "[side]")}
+		{M speaker=narrator ( _ "side=5")}
+		{M speaker=narrator ( _ "controller=ai")}
+		{M speaker=narrator ( _ "type= Orcish Warrior")}
+		{M speaker=narrator ( _ "id=Moe")}
+		{M speaker=narrator ( _ "name_ "Moe"")}
+		{M speaker=narrator ( _ "canrecruit=yes")}
+		{M speaker=narrator ( _ "recruit=Orcish Assassin,Orcish Grunt")}
+		{M speaker=narrator ( _ "{GOLD 150 200 250}")}
+		{M speaker=narrator ( _ "[ai]")}
+		{M speaker=narrator ( _ "aggression=0.6")}
+		{M speaker=narrator ( _ "grouping=no")}
+		{M speaker=narrator ( _ "recruitment_pattern=fighter,fighter,mixed fighter")}
+		{M speaker=narrator ( _ "[/ai]")}
+		{M speaker=narrator ( _ "[/side]")}
+		{M speaker=narrator ( _ "[side]")}
+		{M speaker=narrator ( _ "side=6")}
+		{M speaker=narrator ( _ "controller=ai")}
+		{M speaker=narrator ( _ "type= Orcish Warrior")}
+		{M speaker=narrator ( _ "id=Curly")}
+		{M speaker=narrator ( _ "Name_ "Curly"")}
+		{M speaker=narrator ( _ "canrecruit=yes")}
+		{M speaker=narrator ( _ "recruit=Orcish Assassin,Orcish Grunt,Orcish Crossbowman")}
+		{M speaker=narrator ( _ "{GOLD 150 200 250}")}
+		{M speaker=narrator ( _ "[ai]")}
+		{M speaker=narrator ( _ "aggression=0.6")}
+		{M speaker=narrator ( _ "grouping=no")}
+		{M speaker=narrator ( _ "recruitment_pattern=fighter,fighter,mixed fighter")}
+		{M speaker=narrator ( _ "[/ai]")}
+		{M speaker=narrator ( _ "[/side]")}
+		{M speaker=narrator ( _ "[event]")}
+		{M speaker=narrator ( _ "name=prestart")}
+		{M speaker=narrator ( _ "[recall]")}
+		{M speaker=narrator ( _ "id=Larry")}
+		{M speaker=narrator ( _ "x=17")}
+		{M speaker=narrator ( _ "y=40")}
+		{M speaker=narrator ( _ "[/recall]")}
+		{M speaker=narrator ( _ "[recall]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "x=16")}
+		{M speaker=narrator ( _ "y=26")}
+		{M speaker=narrator ( _ "[/recall]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Larry")}
+		{M speaker=narrator ( _ "message_ "Keep running, little man-girl! You make wonderful sport!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ *Hahh* "So tired... I really have to stop and... rest for a moment."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Elric")}
+		{M speaker=narrator ( _ "message_ "Forgive me Milady, but... there's not much time. We have a new problem."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "What is it now? More orcs? Like we didn't have enough already!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Elric")}
+		{M speaker=narrator ( _ "message_ "Yes. It is... most unfortunate. You see, Milady... the orcs have circled around ahead of us. We are surrounded."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "Wh-... What?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[recall]")}
+		{M speaker=narrator ( _ "id=Moe")}
+		{M speaker=narrator ( _ "x=4")}
+		{M speaker=narrator ( _ "y=2")}
+		{M speaker=narrator ( _ "[/recall]")}
+		{M speaker=narrator ( _ "[recall]")}
+		{M speaker=narrator ( _ "id=Curly")}
+		{M speaker=narrator ( _ "x=28")}
+		{M speaker=narrator ( _ "y=7")}
+		{M speaker=narrator ( _ "[/recall]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Moe")}
+		{M speaker=narrator ( _ "message_ "Hello, humans! Weren't you expecting me?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Curly")}
+		{M speaker=narrator ( _ "message_ "They're trapped now! Like rats in their hole!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Moe")}
+		{M speaker=narrator ( _ "message_ "Rats? Now I'm hungry."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Elric")}
+		{M speaker=narrator ( _ "message_ "So... is this how it's going to end, then?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "I suppose. If I was any older, perhaps I would lament of how I failed in my duty, the only task I was ordered to... but right now, all I'm really lamenting of is the loss of my own life."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Elric")}
+		{M speaker=narrator ( _ "message_ "Likewise."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=")}
+		{M speaker=narrator ( _ "message_ "Hm? Those are not orc voices I hear..."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Elric")}
+		{M speaker=narrator ( _ "message_ "Huh?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "Who's there?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[recall]")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "x=5")}
+		{M speaker=narrator ( _ "y=24")}
+		{M speaker=narrator ( _ "[/recall]")}
+		{M speaker=narrator ( _ "{MOVE_UNIT (id=Silan) 11,27}")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message_ "More humans? Wonderful! I thought I was going to die all alone here!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "Who are you?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message_ "Yes, introductions! Where are my manners? My name is Silan. Silan Abner. I have been opposing the invading orcs at any possible moment, but now it looks like I have ended up biting a bit more I could chew. So I suppose we have both ended up in the same hopeless situation. A pleasure to meet you!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "Likewise... I suppose. My name is Cheska."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Elric")}
+		{M speaker=narrator ( _ "message_ "My salutations to you as well, good sir."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message_ "So, what do you say then? Alone we may have been doomed, but I believe together we might stand a chance, albeit slim, of escaping and living to fight again another day!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "We appreciate any help you can offer, although... I have to ask, what can a single man offer to us that truly gives us a significant edge? Are you perhaps a wizard?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M id=message_"Your assumptions would be correct ( _ "I often utilize magic on my travels. I believe I can be of just as great help to you as you can be to me.")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "{MOVE_UNIT (id=Elric) 20,24}")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_"I suppose it is settled, then. We will join our forces to make a stand against the orcish hor-"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[recall]")}
+		{M speaker=narrator ( _ "id=Xel")}
+		{M speaker=narrator ( _ "x=21")}
+		{M speaker=narrator ( _ "y=24")}
+		{M speaker=narrator ( _ "[/recall]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Elric")}
+		{M speaker=narrator ( _ "message_ "Whoa!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Xel")}
+		{M speaker=narrator ( _ "message_ "Who goes there? Friend or foe?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message_ "Saurians? Can we assume you are in this same pickle as well?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "Um. Let's suppose we are friends at the moment."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message_ "More friends than those orcs over there, anyway."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Curly")}
+		{M speaker=narrator ( _ "message_ "Hey, I caught a lizard!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Moe")}
+		{M speaker=narrator ( _ "message_ "How was it?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Curly")}
+		{M speaker=narrator ( _ "message_ "Crunchy on the outside, but chewy from the inside! Yum! I'll go look for more."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Xel")}
+		{M speaker=narrator ( _ "message_ "Yes, we... met some orcs on our way here. Most of us got through unharmed, but I reckon that way is shut for us now."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Silan")}
+		{M speaker=narrator ( _ "message_ "That would mean you are surrounded as well."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Cheska")}
+		{M speaker=narrator ( _ "message_ "You went through a different trap, perhaps, but the outcome is the same."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=Xel")}
+		{M speaker=narrator ( _ "message_ "...I see."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "{MOVE_UNIT (id=Xel) 21,27}")}
+		{M speaker=narrator ( _ "[recall]")}
+		{M speaker=narrator ( _ "id=Zeza")}
+		{M speaker=narrator ( _ "x=20")}
+		{M speaker=narrator ( _ "y=26")}
+		{M speaker=narrator ( _ "[/recall]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Xel")}
+		{M speaker=narrator ( _ "message_ "Well, my name is Xel."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Silan")}
+		{M speaker=narrator ( _ "message_ "Nice to meet you! I'm Silan."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Cheska")}
+		{M speaker=narrator ( _ "message_ "Cheska."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Xel")}
+		{M speaker=narrator ( _ "message_ "It's a pleasure."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Larry")}
+		{M speaker=narrator ( _ "message_ "...See, you can't cook a lizard, since they can take fire really well. What you have to do is to take a really big hammer and then SMA-"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Moe")}
+		{M speaker=narrator ( _ "message_ "OI! Enough talking, let's go get them already!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Zeza")}
+		{M speaker=narrator ( _ "message_ "Xel, they're coming!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Xel")}
+		{M speaker=narrator ( _ "message_ "Looks like the time for talking is over, then."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Cheska")}
+		{M speaker=narrator ( _ "message_ "There was way too much time for that to begin with. Are you with us, then, Xel?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Xel")}
+		{M speaker=narrator ( _ "message_ "Act as one, or perish alone. And I want to get out of here alive."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker= Cheska")}
+		{M speaker=narrator ( _ "message_ "That's reassuring. Perhaps we do have a chance."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "speaker=")}
+		{M speaker=narrator ( _ "message_")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[objectives]")}
+		{M speaker=narrator ( _ "side=1")}
+		{M speaker=narrator ( _ "[objective]")}
+		{M speaker=narrator ( _ "condition=win")}
+		{M speaker=narrator ( _ "description=_ "Aid Cheska to the signpost in the north"")}
+		{M speaker=narrator ( _ "[/objective]")}
+		{M speaker=narrator ( _ "[objective]")}
+		{M speaker=narrator ( _ "condition=lose")}
+		{M speaker=narrator ( _ "description=_ "Death of Cheska Kuhral"")}
+		{M speaker=narrator ( _ "[/objective]")}
+		{M speaker=narrator ( _ "[objective]")}
+		{M speaker=narrator ( _ "condition=lose")}
+		{M speaker=narrator ( _ "description=_ "Death of Silan Abner"")}
+		{M speaker=narrator ( _ "[/objective]")}
+		{M speaker=narrator ( _ "[objective]")}
+		{M speaker=narrator ( _ "condition=lose")}
+		{M speaker=narrator ( _ "description=_ "Death of Xel"")}
+		{M speaker=narrator ( _ "[/objective]")}
+		{M speaker=narrator ( _ "[/objectives]")}
+		{M speaker=narrator ( _ "[/event]")}
+		{M speaker=narrator ( _ "[event]")}
+		{M speaker=narrator ( _ "name=moveto")}
+		{M speaker=narrator ( _ "[filter]")}
+		{M speaker=narrator ( _ "x=20")}
+		{M speaker=narrator ( _ "y=0")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "[/filter]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Xel")}
+		{M speaker=narrator ( _ "message= _ "We got through! We have broken past the blockade!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "message= _ "Well, that was not quite as difficult as I had thought! Now we should-"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "message= _ "Men! Seize the necromancer!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[delay]")}
+		{M speaker=narrator ( _ "time=500")}
+		{M speaker=narrator ( _ "[/delay]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "message= _ "What is this?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M id=message= _ "You have been found guilty of the crime of necromancy ( _ "you have been proven to have studied the dark arts, brought dead back to the living, and performed many dark and twisted spells; as well as suspected upon conspiring against Wesnoth.")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "message= _ "What? That is simply plain unfair. Just because I wield darker magic than most, indicates absolutely nothing that I would wish to throw the good king Konrad from the throne!"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "message= _ "Your help here was greatly appreciated, however, and I will talk for your behalf in the court."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "message= _ "Well, that is generous."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "message= _ "Even so, I fully expect you to be executed for this. I hope there will be no hard feelings."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Silan")}
+		{M speaker=narrator ( _ "message= _ "...Hmph. There will be none, I suppose. You could do no different."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[delay]")}
+		{M speaker=narrator ( _ "time=500")}
+		{M speaker=narrator ( _ "[/delay]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "message= _ "What about you, then, Xel? What do you wish to do now?"")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Xel")}
+		{M speaker=narrator ( _ "message= _ "..."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Xel")}
+		{M speaker=narrator ( _ "message= _ "...Would you mind if I came with you? I don't have anywhere to go to begin with, but you did help me out. I feel like I might as well stick with you."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "message= _ "I would not mind. Although I can be sure your and your friends' faces will cause some commotion in the human cities."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Xel")}
+		{M speaker=narrator ( _ "message= _ "Thank you. ...Still, I have to say I think you're being a bit too harsh to the necromancer. I'm no more fond of his dark magics, but he did help us out as well."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[message]")}
+		{M speaker=narrator ( _ "id=Cheska")}
+		{M speaker=narrator ( _ "message= _ "...Perhaps so. We shall see what happens."")}
+		{M speaker=narrator ( _ "[/message]")}
+		{M speaker=narrator ( _ "[endlevel]")}
+		{M speaker=narrator ( _ "result=victory")}
+		{M speaker=narrator ( _ "bonus=yes")}
+		{M speaker=narrator ( _ "[/endlevel]")}
+		{M speaker=narrator ( _ "[/event]")}
+		{M speaker=narrator ( _ "[/scenario]")}
+		{M speaker=narrator ( _ "***********************************")}
